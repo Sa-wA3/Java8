@@ -14,6 +14,7 @@ public class MapSample {
         System.out.println(map.get(1));
         System.out.println(map.size());
         System.out.println(map.values());
+        System.out.println(map.entrySet());
         System.out.println(map.containsKey(1));
         System.out.println(map.containsValue("平澤"));
     }
